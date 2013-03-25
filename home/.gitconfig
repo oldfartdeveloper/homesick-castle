@@ -1,0 +1,11 @@
+[user]
+	name = Scott Smith
+	email = scottnelsonsmith@gmail.com
+[core]
+	excludesfile = /Users/scott/.gitignore_global
+  autocrlf = false
+[github]
+  user = oldfartdeveloper
+
+[alias]
+	co = checkout
